@@ -1,0 +1,257 @@
+[{
+    "cafeName": "Tekoff Coffee and Tea",
+    "CUISINES": "Cafe"
+}, {
+    "cafeName": "Slurp! Coffee & Figs Tea"
+}, {
+    "cafeName": "de Ngokow Coffee Roastery & Tea Club",
+    "PRICE_RANGE": "IDR 10,000 - IDR 28,000",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks",
+    "FEATURES": "Delivery, Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Street Parking, Free off-street parking, Television, Wheelchair Accessible, Digital Payments, Free Wifi, Table Service, Drive Thru, Family style, Gift Cards Available"
+}, {
+    "cafeName": "Sellie Coffee",
+    "CUISINES": "Cafe, Indonesian",
+    "FEATURES": "Takeout, Seating"
+}, {
+    "cafeName": "Ministry of Coffee",
+    "CUISINES": "Cafe, American",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Seating"
+}, {
+    "cafeName": "Lotus Mio Bangunjiwo Restaurant",
+    "CUISINES": "Cafe, European, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Serves Alcohol, Free Wifi, Table Service"
+}, {
+    "cafeName": "Blanco Coffee & Books",
+    "CUISINES": "European, Cafe",
+    "Meals": "Brunch, Breakfast",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Street Parking, Highchairs Available, Free Wifi, Television, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Wheelchair Accessible, Accepts Credit Cards"
+}, {
+    "cafeName": "Lagani Coffee",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Takeout, Outdoor Seating, Seating"
+}, {
+    "cafeName": "Pour Over Coffee",
+    "PRICE_RANGE": "IDR 10,000 - IDR 25,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Breakfast",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Free off-street parking, Cash Only, Accepts Credit Cards"
+}, {
+    "cafeName": "Cinema Bakery",
+    "CUISINES": "French, European, Cafe",
+    "Meals": "Drinks, Breakfast, Brunch",
+    "FEATURES": "Takeout, Seating, Street Parking, Accepts Mastercard, Accepts Visa, Free Wifi, Parking Available"
+}, {
+    "cafeName": "Kedai Kopi Mataram",
+    "PRICE_RANGE": "IDR 14,000 - IDR 40,000",
+    "CUISINES": "Italian, Cafe",
+    "Meals": "Breakfast, Brunch, Late Night",
+    "FEATURES": "Outdoor Seating, Seating, Television, Takeout, Free Wifi, Jazz Bar"
+}, {
+    "cafeName": "Warung Kopi Klotok",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal",
+    "Meals": "Breakfast, Lunch, Brunch",
+    "FEATURES": "Outdoor Seating, Seating, Parking Available"
+}, {
+    "cafeName": "Klinik Kopi",
+    "CUISINES": "Cafe"
+}, {
+    "cafeName": "Ruang Seduh Jogja",
+    "PRICE_RANGE": "IDR 384,615,008 - IDR 692,307,968",
+    "CUISINES": "Cafe",
+    "Meals": "Drinks",
+    "FEATURES": "Seating, Outdoor Seating, Parking Available, Valet Parking, Digital Payments, Free Wifi"
+}, {
+    "cafeName": "Esco Restaurant",
+    "CUISINES": "Cafe, International",
+    "Meals": "Brunch, Lunch, Dinner",
+    "FEATURES": "Seating, Parking Available, Wheelchair Accessible, Serves Alcohol, Reservations"
+}, {
+    "cafeName": "Tanamera Coffee & Roastery Yogyakarta",
+    "PRICE_RANGE": "IDR 30,000 - IDR 100,000",
+    "CUISINES": "Indonesian, Cafe",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Seating, Table Service, Delivery"
+}, {
+    "cafeName": "LN Fortunate Coffee",
+    "CUISINES": "Soups, Cafe, Healthy",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+    "Meals": "Breakfast, Lunch, Dinner, Drinks",
+    "FEATURES": "Reservations, Television, Seating, Free off-street parking, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Free Wifi, Table Service, Takeout, Parking Available, Validated Parking"
+}, {
+    "cafeName": "Legend Coffee",
+    "CUISINES": "Cafe, Indonesian, Asian",
+    "Meals": "Breakfast",
+    "FEATURES": "Seating, Takeout"
+}, {
+    "cafeName": "Move On Cafe",
+    "CUISINES": "Bar, Cafe, European",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Lunch, Dinner, Brunch, Breakfast",
+    "FEATURES": "Reservations, Outdoor Seating, Seating, Serves Alcohol, Free Wifi, Table Service, Takeout, Live Music"
+}, {
+    "cafeName": "Silol Kopi and Eatery",
+    "CUISINES": "Cafe, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch",
+    "FEATURES": "Seating, Live Music"
+}, {
+    "cafeName": "NOX Coffee Boutique",
+    "PRICE_RANGE": "IDR 20,000 - IDR 120,000",
+    "CUISINES": "American, Cafe, European",
+    "Special_Diets": "Vegetarian Friendly",
+    "Meals": "Drinks, Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Seating, Parking Available, Serves Alcohol, Digital Payments, Free Wifi, Takeout, Outdoor Seating"
+}, {
+    "cafeName": "Peacock Coffee",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Seating"
+}, {
+    "cafeName": "Mataram Loewak Coffee",
+    "CUISINES": "Cafe"
+}, {
+    "cafeName": "Hayati Specialty Coffee",
+    "PRICE_RANGE": "IDR 276,923,008 - IDR 692,307,968",
+    "CUISINES": "Cafe, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night",
+    "FEATURES": "Seating, Delivery, Takeout, Free Wifi, Accepts Credit Cards"
+}, {
+    "cafeName": "Simetri Coffee Roaster",
+    "CUISINES": "Italian, Cafe, Asian, Diner",
+    "Meals": "Breakfast, Lunch"
+}, {
+    "cafeName": "Araya Coffee And Tea",
+    "CUISINES": "Italian, Asian, Indonesian"
+}, {
+    "cafeName": "Paprika",
+    "PRICE_RANGE": "IDR 154,000 - IDR 615,000",
+    "CUISINES": "Fusion",
+    "Meals": "Lunch, Dinner, Late Night",
+    "FEATURES": "Takeout, Outdoor Seating, Seating, Parking Available, Validated Parking, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Free Wifi, Reservations, Table Service, Accepts Credit Cards"
+}, {
+    "cafeName": "Beukenhof Restaurant",
+    "CUISINES": "International, European",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal",
+    "Meals": "Lunch, Brunch, Dinner",
+    "FEATURES": "Reservations, Outdoor Seating, Private Dining, Seating, Table Service"
+}, {
+    "cafeName": "Angkringan Kopi Jos Lik Man",
+    "CUISINES": "Street Food, Indonesian, Asian",
+    "Special_Diets": "Halal",
+    "Meals": "Dinner, Late Night",
+    "FEATURES": "Takeout, Street Parking, Cash Only"
+}, {
+    "cafeName": "Cha-Cha Taiwan Milk Tea",
+    "Meals": "Drinks"
+}, {
+    "cafeName": "Silol Kopi and Eatery",
+    "CUISINES": "Cafe, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch",
+    "FEATURES": "Seating, Live Music"
+}, {
+    "cafeName": "Paksi Coffee House",
+    "PRICE_RANGE": "IDR 31,000 - IDR 77,000",
+    "CUISINES": "Cafe, Asian, Indonesian",
+    "Special_Diets": "Vegan Options",
+    "Meals": "Lunch, Dinner, Late Night",
+    "FEATURES": "Outdoor Seating, Seating, Reservations, Table Service"
+}, {
+    "cafeName": "LN Fortunate Coffee",
+    "CUISINES": "Soups, Cafe, Healthy",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Gluten Free Options",
+    "Meals": "Breakfast, Lunch, Dinner, Drinks",
+    "FEATURES": "Reservations, Television, Seating, Free off-street parking, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Free Wifi, Table Service, Takeout, Parking Available, Validated Parking"
+}, {
+    "cafeName": "Tanamera Coffee & Roastery Yogyakarta",
+    "PRICE_RANGE": "IDR 30,000 - IDR 100,000",
+    "CUISINES": "Indonesian, Cafe",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Seating, Table Service, Delivery"
+}, {
+    "cafeName": "Eastman Coffee House",
+    "CUISINES": "Cafe, European",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Reservations, Seating, Table Service, Delivery, Takeout, Parking Available, Valet Parking, Wheelchair Accessible, Free Wifi, Accepts Credit Cards, Family style"
+}, {
+    "cafeName": "Strada Coffee & Cafe",
+    "PRICE_RANGE": "IDR 10,000 - IDR 79,000",
+    "CUISINES": "Indonesian, Cafe, Asian",
+    "Special_Diets": "Vegan Options, Halal, Vegetarian Friendly",
+    "Meals": "Lunch, Dinner, Drinks, Breakfast, Brunch",
+    "FEATURES": "Delivery, Takeout, Reservations, Seating, Parking Available, Television, Serves Alcohol, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Outdoor Seating, Buffet, Free off-street parking, Highchairs Available, Accepts American Express, Accepts Discover, Accepts Credit Cards, Table Service"
+}, {
+    "cafeName": "Gudeg Yu Djum",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Takeout, Seating"
+}, {
+    "cafeName": "ViaVia Jogja",
+    "PRICE_RANGE": "IDR 30,000 - IDR 100,000",
+    "CUISINES": "Asian, Indonesian, American, Indian, International",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Highchairs Available, Free Wifi, Cash Only, Playgrounds, Gift Cards Available"
+}, {
+    "cafeName": "Waroeng Klangenan",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Dinner",
+    "FEATURES": "Reservations"
+}, {
+    "cafeName": "Legend Coffee",
+    "CUISINES": "Cafe, Indonesian, Asian",
+    "Meals": "Breakfast",
+    "FEATURES": "Seating, Takeout"
+}, {
+    "cafeName": "Peacock Coffee",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Seating"
+}, {
+    "cafeName": "Cha-Cha Taiwan Milk Tea",
+    "Meals": "Drinks"
+}, {
+    "cafeName": "Patio Colonial",
+    "PRICE_RANGE": "IDR 150,000 - IDR 500,000",
+    "CUISINES": "European, Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Gluten Free Options, Vegan Options"
+}, {
+    "cafeName": "Roaster and Bear",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Parking Available, Takeout, Reservations, Outdoor Seating, Seating, Street Parking, Validated Parking, Highchairs Available, Serves Alcohol, Accepts Mastercard, Accepts Visa, Cash Only, Free Wifi, Accepts Credit Cards, Table Service, Live Music"
+}, {
+    "cafeName": "Artemy Italian Gelato",
+    "CUISINES": "Italian, Cafe",
+    "FEATURES": "Takeout, Outdoor Seating, Seating"
+}, {
+    "cafeName": "Calais",
+    "FEATURES": "Takeout"
+}, {
+    "cafeName": "Lawas Cafe 613",
+    "CUISINES": "Indonesian, Cafe, Asian",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Seating, Takeout, Outdoor Seating, Serves Alcohol, Table Service"
+}, {
+    "cafeName": "Angkringan Kopi Jos Lik Man",
+    "CUISINES": "Street Food, Indonesian, Asian",
+    "Special_Diets": "Halal",
+    "Meals": "Dinner, Late Night",
+    "FEATURES": "Takeout, Street Parking, Cash Only"
+}, {
+    "cafeName": "Aglioo Pizza And Pasta",
+    "CUISINES": "Steakhouse, Italian, Pizza",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Lunch, Dinner, Brunch, Late Night",
+    "FEATURES": "Highchairs Available, Takeout, Reservations, Outdoor Seating, Seating, Television, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Table Service, Delivery"
+}, {
+    "cafeName": "Starbucks",
+    "CUISINES": "Cafe",
+    "FEATURES": "Free Wifi, Takeout, Outdoor Seating, Seating, Wheelchair Accessible"
+}, {}]
