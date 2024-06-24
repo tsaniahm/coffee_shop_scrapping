@@ -1,0 +1,425 @@
+[{
+    "image": "",
+    "cafeName": "Kopi Soji",
+    "cafeAddress": "Jl. Gamping - Sidoarum Patukan Ambarketawang Gamping Sleman Daerah Istimewa Yogyakarta, Sleman 55294 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/d1/fc/d1/screenshot-20190606-211736.jpg",
+    "cafeName": "Kene Coffee House",
+    "cafeAddress": "Jl. Kaliwaru Raya no. 84C, Depok 55281 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 15,000 - IDR 30,000",
+    "CUISINES": "International, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/41/d5/92/getlstd-property-photo.jpg",
+    "cafeName": "The Sidji Kitchen & Dine",
+    "cafeAddress": "288, Ring Road Barat the Amartya Jogjakarta Hotel, Gamping 55592 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 45,000 - IDR 150,000",
+    "CUISINES": "Chinese, American, Asian, Australian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Reservations, Seating, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/61/21/98/getlstd-property-photo.jpg",
+    "cafeName": "Nirvana Pool & Lounge",
+    "cafeAddress": "Jl. Palagan Tentara Pelajar No.106 Indoluxe Hotel Rooftop, Ngaglik 55581 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 25,000 - IDR 150,000",
+    "CUISINES": "Chinese, American, International, European, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-o/0f/51/0f/9d/lokasi-unlock-coffeeshop.jpg",
+    "cafeName": "Unlock Coffeeshop",
+    "cafeAddress": "Jl. Palagan Tentara Pelajar no. 203, Sleman 55581 Indonesia",
+    "rating": "3.0 ",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "The Pleret Coffee",
+    "cafeAddress": "Jl. Imogiri Timur Km 10, Bantul 55791 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/27/4d/b6/da/20221124-165924-largejpg",
+    "cafeName": "J.CO",
+    "cafeAddress": "Jl. Raya Ring Road Utara Hartono Mall, Condongcatur 57731 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "",
+    "cafeName": "Galeri Oma Vintage Gallery & Coffee",
+    "cafeAddress": "Jl. Monumen Jogja Kembali no. 55 Gemawang, Sleman 55284 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 10,000 - IDR 25,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "Produsen Rempah Prima Sejahtera",
+    "cafeAddress": "Mojosari Indah Blok D.12 Rt.11, Kalangan, Bantul 55197 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Drinks"
+}, {
+    "image": "",
+    "cafeName": "Rumah Roasting Manroe Coffee",
+    "cafeAddress": "Palem Sewu, Panggungharjo, Sewon, Bantul Regency, Bantul 55188 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Brunch"
+}, {
+    "image": "",
+    "cafeName": "Aegis Coffee",
+    "cafeAddress": "Jl. Perumnas No. 249 F, Depok 55281 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/4e/3f/bb/getlstd-property-photo.jpg",
+    "cafeName": "Bless Coffee & Eatery - CLOSED",
+    "cafeAddress": "Jl. Magelang No.Km 6 Jogja Paradise Food Court, Sinduadi 55284 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Italian, American, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks",
+    "FEATURES": "Takeout, Seating, Free off-street parking, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/27/00/2d/40/ca-kangkung-menu-baru.jpg",
+    "cafeName": "Geprek&jus89",
+    "cafeAddress": "Jl.monjali,,,gemawang No 125 Rt02 Rw43 Sinduadi Dekat, Sleman 55284 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Asian, Indonesian",
+    "FEATURES": "Delivery"
+}, {
+    "image": "",
+    "cafeName": "Benndoll Coffee Yogyakarta - CLOSED",
+    "cafeAddress": "Gg. Jemb. Merah No.60 E, Depok 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/2c/b9/81/getlstd-property-photo.jpg",
+    "cafeName": "Happy Belly Dessert",
+    "cafeAddress": "Jl. Babarsari No.112A Kledokan, Caturtunggal 55281 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 12,000 - IDR 25,000",
+    "CUISINES": "Asian, Korean, Taiwanese"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/12/27/7b/entrance-and-smoking.jpg",
+    "cafeName": "Pikali Pizzeria",
+    "cafeAddress": "Jalan Damai, Sleman 55581 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 10,000 - IDR 100,000",
+    "CUISINES": "Italian, Pizza, Asian",
+    "Special_Diets": "Vegetarian Friendly",
+    "Meals": "Lunch, Dinner, Drinks",
+    "FEATURES": "Delivery, Takeout, Reservations, Table Service, Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/47/12/ca/getlstd-property-photo.jpg",
+    "cafeName": "GM Coffee & Lounge",
+    "cafeAddress": "Jl. Ring Road Utara Hartono Mall GF 1, Condong Catur, Sleman 57731 Indonesia",
+    "rating": "3.0 ",
+    "PRICE_RANGE": "IDR 18,000 - IDR 60,000",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Goodwin Eatery & Bar",
+    "cafeAddress": "Jl. Selokan Mataram No.1-3 Ruko Seturan Square kavling 20-21 komplek Student Park Apartement, Depok 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "Brew Pub, Pizza, Asian, Pub, Indonesian, Soups"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/d8/e0/af/getlstd-property-photo.jpg",
+    "cafeName": "Lokus X Dongeng Kopi",
+    "cafeAddress": "Jl. Monjali No.42 Gemawang, Mlati 55284 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 13,000 - IDR 23,000",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/9c/fb/6d/gudeg-bu-tjitro.jpg",
+    "cafeName": "Gudeg Bu Tjitro",
+    "cafeAddress": "Jl. Janti No.330 Modalan, Banguntapan 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Indonesian, Asian",
+    "Meals": "Lunch, Dinner, Breakfast",
+    "FEATURES": "Seating, Table Service, Reservations"
+}, {
+    "image": "",
+    "cafeName": "Bengawan Solo Coffee",
+    "cafeAddress": "Jalan Ring Road Utara No.14 Ruko Pandega Permai, Purwosari, Sinduadi 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/93/bf/cd/caption.jpg",
+    "cafeName": "Java Tea House - CLOSED",
+    "cafeAddress": "Jl. Ring Road Utara No.77, Mlati 55284 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 10,000 - IDR 50,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Brunch, Late Night",
+    "FEATURES": "Reservations, Takeout, Outdoor Seating, Seating, Parking Available, Street Parking, Television, Highchairs Available, Free Wifi, Accepts Credit Cards, Table Service"
+}, {
+    "image": "",
+    "cafeName": "Ailen Coffee - Small Roastery & Mini Bar",
+    "cafeAddress": "Gg. Soka Bodon, Jagalan, Banguntapan 55192 Indonesia",
+    "rating": "",
+    "Meals": "Drinks",
+    "FEATURES": "Seating, Parking Available, Digital Payments, Cash Only"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/98/7e/6d/tea-time-cafe.jpg",
+    "cafeName": "Tea Time Cafe",
+    "cafeAddress": "Jl. Raya Ring Road Utara Hartono Mall Yogyakarta, 2nd Floor, Unit 16, Sleman 57731 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 20,000 - IDR 60,000",
+    "CUISINES": "Chinese, Asian, Indonesian, Taiwanese",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Takeout, Seating, Wheelchair Accessible, Digital Payments, Free Wifi"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/e2/04/ed/dining-room.jpg",
+    "cafeName": "Bellva VVIP Bar & Kitchen - CLOSED",
+    "cafeAddress": "Jalan Ring Road Utara No. 6 Ground Floor unit 10-11 Hartono Mall, Depok 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Bar, Pizza, International, Pub, Wine Bar",
+    "Meals": "Lunch, Dinner, Brunch, Late Night, Drinks",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Buffet, Seating, Television, Highchairs Available, Wheelchair Accessible, Serves Alcohol, Full Bar, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Free Wifi, Accepts Discover, Table Service, Parking Available, Validated Parking, Valet Parking, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/ca/fc/e7/bornga.jpg",
+    "cafeName": "Bornga",
+    "cafeAddress": "Jalan Lempongsari Raya Sariharjo, Sleman Regency, Ngaglik 55581 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 100,000 - IDR 400,000",
+    "CUISINES": "Asian, Korean, Barbecue",
+    "FEATURES": "Reservations, Seating, Table Service, Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/d9/08/cb/img-20180429-122015-largejpg",
+    "cafeName": "Rumah Makan & Catering Dua Putri",
+    "cafeAddress": "Jl. Perumnas No.249 F Catur Tunggal, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/c9/90/ed/getlstd-property-photo.jpg",
+    "cafeName": "Jogja Scrummy Outlet Kaliurang - CLOSED",
+    "cafeAddress": "Jl. Kaliurang KM. 5,5 No. 44 Ruko Cakra Kembang, Manggung, Depok 55281 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 55,000 - IDR 68,000",
+    "CUISINES": "Asian, Deli, Indonesian",
+    "Meals": "Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/12/33/51/e8/getlstd-property-photo.jpg",
+    "cafeName": "Fullmoon Home Creative Coffee",
+    "cafeAddress": "Jl. Tantular No. 55, Sleman 55283 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Italian, Mexican, Spanish, Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/13/d6/ac/1e/getlstd-property-photo.jpg",
+    "cafeName": "Sindikat Coffee",
+    "cafeAddress": "Jl. Raya Kledokan No.6 Ngentak, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 9,000 - IDR 36,000",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/b8/b7/b3/ruangan-di-dalam-kedai.jpg",
+    "cafeName": "Stereos Coffee",
+    "cafeAddress": "Jl. Pandega Marta No.29 Manggung, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "4.5 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/94/7c/be/suasana-roti-canai.jpg",
+    "cafeName": "Roti Canai & Teh Tarik D'Joema Yogyakarta",
+    "cafeAddress": "Jl. Wahid Hasyim Dabag, Condongcatur, Depok 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 6,000 - IDR 12,000",
+    "CUISINES": "Asian, Malaysian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/0b/79/2f/img20190404142822-largejpg",
+    "cafeName": "Rumah Makan Sederhana",
+    "cafeAddress": "Jln. Kaliurang, Depok 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Delivery, Takeout, Seating, Table Service, Reservations"
+}, {
+    "image": "",
+    "cafeName": "Garlic Grill & Pasta",
+    "cafeAddress": "Jl. Rogoyudan I No. 1 Sinduadi, Mlati, Sleman 55284 Indonesia",
+    "rating": "2.5 ",
+    "CUISINES": "International"
+}, {
+    "image": "",
+    "cafeName": "Misterblek Blended Coffee - CLOSED",
+    "cafeAddress": "Jl. Seturan, Caturtunggal 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/12/c9/ac/71/area-dalam.jpg",
+    "cafeName": "Starbucks",
+    "cafeAddress": "Jl. Ring Road Utara Lantai GF, Hartono Mall, Condongcatur 52281 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/97/fb/95/gyoza.jpg",
+    "cafeName": "Hakata Ikkousha Ramen Restaurant",
+    "cafeAddress": "Jl. Demangan Baru No.16 Ruko Demangan Kav 2-3, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Japanese",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/2a/7f/2b/42/a.jpg",
+    "cafeName": "Pippa Kitchen",
+    "cafeAddress": "Jl Mojo No 99 Nogotirto Utara Lapangan Nogotirto, Sleman 55292 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Brunch, Drinks",
+    "FEATURES": "Delivery, Seating, Digital Payments, Cash Only, Free Wifi, Drive Thru"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f1/23/39/sushi-roll.jpg",
+    "cafeName": "Silla Restaurant",
+    "cafeAddress": "Jl. Ring Road Utara No.33 Manggung, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Japanese, Asian, Korean",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Reservations, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/14/8b/66/food-plays-such-a-central.jpg",
+    "cafeName": "Zuparella",
+    "cafeAddress": "Jl. Kaliurang No.12 Km. 5.3 Sleman Yogyakarta Caturtunggal, Depok 55281 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 15,000 - IDR 30,000",
+    "CUISINES": "Asian, Healthy, Indonesian, Soups",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Seating, Table Service"
+}, {
+    "image": "",
+    "cafeName": "Kavakopi",
+    "cafeAddress": "Jl. Monumen Jogja Kembali No.47 Gemangan, Sinduadi, Mlati 55284 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/2a/1f/66/48/dining-at-taman-sari.jpg",
+    "cafeName": "Taman Sari Bar & Grill",
+    "cafeAddress": "Jl. Raya Ringroad Utara Yogyakarta Marriott Hotel, Depok 55283 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/7b/80/b5/2016-10-21-12-46-49-largejpg",
+    "cafeName": "Kami Sushi Jogja",
+    "cafeAddress": "Jl. Magelang no. 18 Jogja City Mall Lantai GF, Sleman 55284 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Sushi, Japanese, Asian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Seating, Wheelchair Accessible, Free Wifi, Table Service, Reservations"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/3c/44/d7/photo1jpg",
+    "cafeName": "Thon’s Coffee",
+    "cafeAddress": "Jl. Seturan Raya, Sleman 55281 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Cafe, Deli"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/92/94/bb/coworking-in-yogya.jpg",
+    "cafeName": "Kaktus Coffee Place",
+    "cafeAddress": "Jl. Gondang Raya 800m west of Terminal Bus Condong Catur, Depok 55283 Indonesia",
+    "rating": "4.5 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/d9/26/ea/l-cost-seafood.jpg",
+    "cafeName": "L'Cost Seafood",
+    "cafeAddress": "Jln. Babarsari Sebelum Spbu Babarsari, Sleman 55281 Indonesia",
+    "rating": "3.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/b2/13/57/getlstd-property-photo.jpg",
+    "cafeName": "FIXed coffee",
+    "cafeAddress": "Jl. Kaliurang KM 5,6 no 11A Catur Tunggal, Depok 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 15,000 - IDR 20,000",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/ae/d2/4e/getlstd-property-photo.jpg",
+    "cafeName": "Roca Restaurant and Bar",
+    "cafeAddress": "Jl. Kaliurang KM 5.6 No. 14 Artotel Yogyakarta, Depok 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 22,000 - IDR 250,000",
+    "CUISINES": "American, European, Asian, Fusion, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/19/72/fe/2c/ayam-geprek-bbq.jpg",
+    "cafeName": "Apatu Ricebowl & Salad Salut",
+    "cafeAddress": "Jl. Monumen Perjuangan Grojogan, Wirokerten, Banguntapan, Banguntapan 55194 Indonesia",
+    "rating": "3.0 ",
+    "PRICE_RANGE": "IDR 3,000 - IDR 20,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/8d/38/b7/bak-mie-spesial-babi.jpg",
+    "cafeName": "Bak & Mie - Spesial Babi Geprek & Mie Babi",
+    "cafeAddress": "Kompleks Pertokoan Babarsari No.37a Kledokan, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Chinese, Fast Food, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/3f/e6/31/bakso-mie-ayam-wonogiri.jpg",
+    "cafeName": "Bakso & Mie Ayam Wonogiri Sempurna 2",
+    "cafeAddress": "Jln. Perumnas, Sleman 55283 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Matcha Thai Tea",
+    "cafeAddress": "Jatirejo 42 B, Rt 02 Rw 21 Sendangadi, Mlati Belakang Htl Hyatt Jln Palagan, Sleman 55884 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "Peter Coffee & Aquascape",
+    "cafeAddress": "Jl. Kaliurang Kentungan, Condongcatur, Depok 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "French, Asian, Vietnamese, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/63/07/fe/moonlite-cafe.jpg",
+    "cafeName": "Moonlite Cafe",
+    "cafeAddress": "Jl. Babarsari, Janti, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 12,000 - IDR 25,000",
+    "CUISINES": "Italian, American, European, Asian, Indonesian",
+    "Meals": "Dinner, Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/43/ed/a7/img20201018135113-largejpg",
+    "cafeName": "Parsley Bakery & Resto",
+    "cafeAddress": "Jl. Seturan Raya No.15A, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 25,000 - IDR 40,000",
+    "CUISINES": "Fusion, Indonesian, Italian, Asian",
+    "Special_Diets": "Vegetarian Friendly, Halal",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Reservations, Seating, Accepts Mastercard, Accepts Visa, Free Wifi, Delivery, Takeout, Accepts Credit Cards, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/d1/ef/5f/screenshot-20190606-205409.jpg",
+    "cafeName": "Mr. Shake Tea",
+    "cafeAddress": "Jl. Babarsari no. 7A Depan UPN Veteran Kampus Babarsari, Sleman Indonesia",
+    "rating": "3.5 ",
+    "Meals": "Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/e3/3b/07/omah-ayam-spesialis-ayam.jpg",
+    "cafeName": "Omah Ayam Spesialis Ayam & Bebek Rempah",
+    "cafeAddress": "Jln. Babarsari Sebelah Upn Veteran Tambakbayan, Sleman 55281 Indonesia",
+    "rating": "3.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/7f/3b/1f/raya-kitchen.jpg",
+    "cafeName": "Raya's kitchen and coffee",
+    "cafeAddress": "Jl. Sulawesi VIII no. 2, Sleman 22568 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Cafe, Asian, Fusion, Healthy, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Kong Kong Chinese & Seafood",
+    "cafeAddress": "Jl. Kabupaten, Gamping 55592 Indonesia",
+    "rating": "4.5 "
+}, {
+    "image": "",
+    "cafeName": "Chatime - CLOSED",
+    "cafeAddress": "Jl. Babarsari No. 23D, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian"
+}]

@@ -1,0 +1,447 @@
+[{
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/33/07/8b/our-bar-serve-good-coffee.jpg",
+    "cafeName": "Bermuda Coffee & Roastery",
+    "cafeAddress": "Jl. Ring Road Utara No.7 Sanggrahan, Condongcatur, Depok 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "$0 - $2",
+    "CUISINES": "International, Asian, Fusion, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/26/33/57/nasi-uduk-palagan.jpg",
+    "cafeName": "Nasi Uduk Palagan",
+    "cafeAddress": "Jln. Tentara Pelajar no. 104, Ngaglik 55231 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Breakfast, Lunch, Brunch, Dinner",
+    "FEATURES": "Takeout, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/2a/67/08/16/intip-goreng-berbahan.jpg",
+    "cafeName": "Angkringan Iwik",
+    "cafeAddress": "kembaran Rt 07 Rw 00 tamantirto kasihan bantul DIY, Bantul 55813 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/1a/33/22/23/20191126-141942-largejpg",
+    "cafeName": "Mie Ongklok Longkrang",
+    "cafeAddress": "Jln. Pasukan Ronggolawe No. 14, Wonosobo 56311 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Indonesian, Asian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Takeout, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/9e/e4/5f/photo1jpg",
+    "cafeName": "Sakaw Coffee & Bites",
+    "cafeAddress": "Jl. Raya Lawu Kalisoro, Tawangmangu 57792 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Highchairs Available, Free Wifi, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/c3/41/bf/the-first-the-one-and.jpg",
+    "cafeName": "Koma Cheese Tea",
+    "cafeAddress": "Jl. Kanguru No. 1 The Park Mall, 2nd floor, Solo 57552 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "$1 - $2",
+    "CUISINES": "Bar, Cafe, Asian, Thai, Indonesian, International, Healthy",
+    "Meals": "Lunch, Dinner, Drinks",
+    "FEATURES": "Delivery, Takeout, Seating, Parking Available, Street Parking, Valet Parking, Wheelchair Accessible, Digital Payments, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/50/a0/f5/20160519-005121-largejpg",
+    "cafeName": "Arjuna Lounge",
+    "cafeAddress": "Inside Ahmad Yani Airport, Semarang 50145 Indonesia",
+    "rating": "2.5 ",
+    "PRICE_RANGE": "$5 - $10",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Breakfast, Dinner, Late Night",
+    "FEATURES": "Buffet, Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f5/47/4e/photo0jpg",
+    "cafeName": "Kopi Tarik Ungaran",
+    "cafeAddress": "Jl. Kartini No.230 B, Ungaran 50511 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/c1/fe/e9/the-harvest-cake-semarang.jpg",
+    "cafeName": "The Harvest Cakes - S. Parman",
+    "cafeAddress": "Jl. Letnan Jenderal S. Parman No.72 Lempongsari, Gajahmungkur, Semarang 50232 Indonesia",
+    "rating": "3.5 ",
+    "PRICE_RANGE": "$35 - $330",
+    "CUISINES": "Cafe",
+    "Meals": "Dinner",
+    "FEATURES": "Parking Available, Takeout, Reservations, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/3d/2b/03/photo4jpg",
+    "cafeName": "Crystal Sapphire Restaurant",
+    "cafeAddress": "Jl. Ir. Soekarno Best Western Premier Solo Baru, Solo 57552 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "International, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/31/07/8d/surf-and-turf-at-menoreh.jpg",
+    "cafeName": "Menoreh Restaurant",
+    "cafeAddress": "Dusun Kretek, Karangrejo Plataran Heritage, Borobudur, Magelang 56553 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "$2 - $19",
+    "CUISINES": "International, Asian, Indonesian",
+    "Special_Diets": "Vegan Options, Halal, Vegetarian Friendly",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Reservations, Seating, Parking Available, Free off-street parking, Wine and Beer, Accepts American Express, Accepts Mastercard, Accepts Visa, Free Wifi, Table Service, Takeout, Outdoor Seating, Highchairs Available, Wheelchair Accessible, Serves Alcohol"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/ed/7c/2e/restaurant-which-let.jpg",
+    "cafeName": "Black Meet White Coffee",
+    "cafeAddress": "Jl. Gelatik no. 7, Semarang Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/46/1b/aa/imag2074-largejpg",
+    "cafeName": "Brother House",
+    "cafeAddress": "Jln. Jendral A. Yani, Wonosobo 56311 Indonesia",
+    "rating": "3.5 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/99/82/1f/soga-restaurant-lounge.jpg",
+    "cafeName": "Soga Restaurant & Lounge",
+    "cafeAddress": "Jl. Slamet Riyadi 261 House Of Danar Hadi, Solo 57141 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "$45,000 - $280,000",
+    "CUISINES": "Indonesian, Asian, Eastern European",
+    "Special_Diets": "Halal",
+    "Meals": "Dinner, Lunch",
+    "FEATURES": "Reservations, Seating, Takeout, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1e/e3/44/c1/the-night-in-cieriek.jpg",
+    "cafeName": "Cieriek Kopi Indonesia",
+    "cafeAddress": "Jl Menayu Lor 2, Kasihan Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Imperial Kitchen & Dimsum - CLOSED",
+    "cafeAddress": "Jl. Raya Solo KM 8 No. 234 Unit 20-21, Ground Floor, Transmart Maguwo, Maguwoharjo, Depok 55282 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/58/3e/01/laban-strawberry-yoghurt.jpg",
+    "cafeName": "Rumah Kuliner Ateeya",
+    "cafeAddress": "Jl. Anggajaya 2 No 111a, Depok Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$1 - $2",
+    "CUISINES": "Indian, Middle Eastern, Pakistani, Arabic",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/28/4a/be/ae/rosella-kitchen-by-richie.jpg",
+    "cafeName": "Rosella Kitchen by Richie",
+    "cafeAddress": "Jalan Kabupaten KM.3,5 No.50, Sleman 55291 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$2 - $5",
+    "CUISINES": "International, Indonesian, Healthy",
+    "Special_Diets": "Vegetarian Friendly",
+    "Meals": "Dinner, Drinks",
+    "FEATURES": "Reservations, Parking Available, Highchairs Available, Accepts American Express, Accepts Mastercard, Accepts Visa, Free Wifi, Takeout, Outdoor Seating, Seating, Free off-street parking, Serves Alcohol, Wine and Beer, Accepts Credit Cards, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/52/ce/5b/ta-img-20190202-160951.jpg",
+    "cafeName": "Steam & Brew.Co",
+    "cafeAddress": "Jl. Depok no. 36A, Semarang 50133 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$1 - $8",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Brunch, Drinks",
+    "FEATURES": "Takeout, Outdoor Seating, Seating, Parking Available, Street Parking, Free Wifi, Reservations, Digital Payments, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-p/0f/9b/06/55/img20170617115910-largejpg",
+    "cafeName": "Telon Coffee",
+    "cafeAddress": "Jl. Imam Bonjol no. 43, Salatiga 50714 Indonesia",
+    "rating": "4.5 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/8f/51/76/img-20170906-125920-largejpg",
+    "cafeName": "Converso Coffee & Eatery",
+    "cafeAddress": "Jl. Durian Raya No.52c Srondol, Banyumanik, Semarang 50268 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/f5/54/3e/souvenir-of-local-snacks.jpg",
+    "cafeName": "Eva Coffee House",
+    "cafeAddress": "Jl Raya Ambarawa, Bedono, Magelang 50663 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Brunch"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/cf/e4/e3/img-20180723-102932-largejpg",
+    "cafeName": "Jendela Coffee Brewers",
+    "cafeAddress": "Jl. Banjarsari Selatan No. 51 Tembalang., Semarang 50171 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$1 - $2",
+    "CUISINES": "American, Asian, Australian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/c7/47/c6/ta-img-20160629-185854.jpg",
+    "cafeName": "Praketa Kopi",
+    "cafeAddress": "Jl. HR Boenyamin no. 129 Kompleks ruko BNI Unsoed, Purwokerto 53122 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/03/4f/9b/66/getlstd-property-photo.jpg",
+    "cafeName": "Bogey's Teras",
+    "cafeAddress": "Jl. Palagan Tentara Pelajar Hyatt Regency Yogyakarta, Sariharjo 55231 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "$3 - $25",
+    "CUISINES": "Bar, Indonesian, Cafe, Asian, Pub",
+    "Meals": "Breakfast, Lunch, Dinner",
+    "FEATURES": "Takeout, Serves Alcohol, Reservations, Outdoor Seating, Parking Available, Television, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Seating, Wheelchair Accessible, Accepts Credit Cards, Table Service, Live Music"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/15/3c/6f/outdoor-space-on-the.jpg",
+    "cafeName": "Solo Kopi",
+    "cafeAddress": "Jl. Adi Sucipto No.31A Kenaiban, Blulukan, Colomadu, Solo 57174 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Breakfast, Lunch"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/52/4c/b7/our-spacious-and-big.jpg",
+    "cafeName": "BS Resto",
+    "cafeAddress": "Jln. Mayor Kusen 2.4, Mungkid, Magelang, Borobudur, Magelang 56512 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options",
+    "Meals": "Lunch, Dinner, Breakfast",
+    "FEATURES": "Reservations, Outdoor Seating, Seating, Parking Available, Serves Alcohol, Free Wifi, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/f3/b6/44/kopi-luwak-cafe.jpg",
+    "cafeName": "Kopi Luwak Cafe",
+    "cafeAddress": "Jl. Pemuda no. 118 Paragon City Mall, Semarang 50132 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/e0/be/34/2016-04-05-14-45-58-largejpg",
+    "cafeName": "Stove Syndicate Coffee and Waffle",
+    "cafeAddress": "Ngesrep Timur V No 27, Semarang Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "FEATURES": "Reservations"
+}, {
+    "image": "",
+    "cafeName": "Kedai Kita",
+    "cafeAddress": "Jln. Melati 13 Badran Purwosari Laweyan, Solo 57142 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/1f/9e/68/getlstd-property-photo.jpg",
+    "cafeName": "Ruang tamu Koffie & Seblak De Teraz",
+    "cafeAddress": "Jl. Kenari No.22 Kandang Macan, Tegalreja, Cilacap 53214 Indonesia",
+    "rating": "3.0 ",
+    "PRICE_RANGE": "$1 - $3",
+    "CUISINES": "Asian, Street Food, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/df/52/94/img-20181228-wa0007-largejpg",
+    "cafeName": "Rumah Kopi Mukidi",
+    "cafeAddress": "Dusun Jambon, Gandurejo, Bulu, Temanggung 56253 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/30/91/e9/tampak-depan-serabi-notosuman.jpg",
+    "cafeName": "Serabi Notosuman",
+    "cafeAddress": "Jl. MR Muh Yamin, Solo 57154 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal",
+    "FEATURES": "Takeout"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/ef/46/c7/stupa-restaurant-by-plataran.jpg",
+    "cafeName": "Stupa Restaurant by Plataran",
+    "cafeAddress": "Dusun Kretek Karangrejo, Borobudur, Magelang 56553 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$6 - $63",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
+    "Meals": "Lunch, Dinner, Breakfast, Drinks",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Buffet, Seating, Parking Available, Validated Parking, Highchairs Available, Accepts Mastercard, Accepts Visa, Free Wifi, Serves Alcohol, Full Bar, Accepts Credit Cards, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/97/7b/fa/the-hills.jpg",
+    "cafeName": "The Hills",
+    "cafeAddress": "Bukit Baladewa 24, Royal Park, Semarang 50127 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "American, Asian, Indonesian",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Reservations, Outdoor Seating, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/98/65/0f/fb-img-1504619322648.jpg",
+    "cafeName": "Chung Gi Wa Korean BBQ",
+    "cafeAddress": "Jl. Sultan Agung no. 69, Semarang Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Barbecue, Asian, Korean",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Takeout, Reservations, Seating, Parking Available, Table Service, Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/37/ac/57/menur-bistro.jpg",
+    "cafeName": "Menur Bistro",
+    "cafeAddress": "Jln. A.Yani No 145, Semarang 50241 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Indonesian, Cafe, Asian, Fusion",
+    "Special_Diets": "Halal",
+    "Meals": "Dinner, Breakfast, Lunch",
+    "FEATURES": "Accepts Mastercard, Accepts Visa, Cash Only, Reservations, Accepts Credit Cards, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ff/b5/7c/img-20160715-070555-hdr.jpg",
+    "cafeName": "Timlo Sastro",
+    "cafeAddress": "Jl. Kapten Mulyadi Pasar Gede, Solo Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian, Soups",
+    "Special_Diets": "Halal",
+    "Meals": "Breakfast, Lunch, Brunch",
+    "FEATURES": "Takeout, Seating, Parking Available"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/dc/2e/cf/suasana-dalam-cafe.jpg",
+    "cafeName": "Starbucks Paragon Mall",
+    "cafeAddress": "Jln. Yosodipuro no. 133 Paragon Mall, Solo 57139 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "American, European, Cafe",
+    "FEATURES": "Seating, Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/13/f8/9d/87/20180801-115432-largejpg",
+    "cafeName": "Anak Panah Kopi",
+    "cafeAddress": "Jl. MT Haryono no. 681, Semarang 50242 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/30/f8/5f/delightful-interior-at.jpg",
+    "cafeName": "Langit Menoreh Bar & Lounge",
+    "cafeAddress": "Dusun Kretek Karangrejo, Borobudur, Magelang 56553 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "International, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Drinks",
+    "FEATURES": "Parking Available, Free off-street parking, Serves Alcohol, Full Bar, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Reservations, Outdoor Seating, Seating, Wheelchair Accessible, Table Service"
+}, {
+    "image": "",
+    "cafeName": "Good Luck Coffee & Space Yogyakarta",
+    "cafeAddress": "Jl. Kaliurang Km. 7, Gg. Anggrek No.4 Rt./rw:/rw.10/51, Condongcatur 55283 Indonesia",
+    "rating": ""
+}, {
+    "image": "",
+    "cafeName": "Candala Coffee",
+    "cafeAddress": "Jl. Anggajaya 2 No.108A Sanggrahan, Condongcatur, Depok 55281 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/27/01/00/55/kopi-bang-boim.jpg",
+    "cafeName": "Kopi Bang Boim",
+    "cafeAddress": "Kasihan Rt.6 Dk.9 Blok.a No.10 Tamantirto, Bantul 55183 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/16/b7/ca/v60.jpg",
+    "cafeName": "Maer Kopi",
+    "cafeAddress": "Jl. Rajawali Ngebel, Tamantirto, Bantul 55183 Indonesia",
+    "rating": "",
+    "CUISINES": "Indonesian, Asian",
+    "Meals": "Drinks",
+    "FEATURES": "Outdoor Seating, Seating, Parking Available, Digital Payments, Free Wifi, Accepts Credit Cards, Family style"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/a9/74/2f/ayam-goreng-mbah-cemplung.jpg",
+    "cafeName": "Ayam Goreng Mbah Cemplung",
+    "cafeAddress": "Jl. Desa Sendang Semanggi Kasihan, Bantul Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Seating, Parking Available, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/16/a1/fe/p-20170715-205624-largejpg",
+    "cafeName": "Z Kitchen Coffee & Resto",
+    "cafeAddress": "94D Waras Street, Sleman 555581 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/5a/be/89/rm-parangtritis.jpg",
+    "cafeName": "Rumah Makan & Restoran Parangtritis",
+    "cafeAddress": "Jl. Parangtritis, Sewon, Bantul 55185 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "Wings & Ribs Mediterranean Cuisine",
+    "cafeAddress": "Jl. Palagan Tentara Pelajar No rontokusuman, Mergangsan, Ngaglik 55581 Indonesia",
+    "rating": "",
+    "CUISINES": "Turkish"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-o/18/60/c9/9b/the-amazing-and-fresh.jpg",
+    "cafeName": "Tulip Living Cafe & Home Decor - CLOSED",
+    "cafeAddress": "Jl. Padma No.888 Panggung Sari, Sariharjo, Ngaglik 55581 Indonesia",
+    "rating": "4.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/78/ae/9b/we-were-honoured-to-host.jpg",
+    "cafeName": "Sasanti Restaurant",
+    "cafeAddress": "Jalan Palagan Tentara Pelajar No 52A, Sleman 55581 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "$3 - $22",
+    "CUISINES": "Indonesian",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal, Gluten Free Options",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Parking Available, Full Bar, Reservations, Outdoor Seating, Private Dining, Seating, Free off-street parking, Wheelchair Accessible, Serves Alcohol, Wine and Beer, Accepts Mastercard, Accepts Visa, Free Wifi, Accepts Credit Cards, Table Service, Live Music, Family style"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d1/34/33/indonesian-coffee.jpg",
+    "cafeName": "Kopi DST",
+    "cafeAddress": "Bayaran Tamantirto, Kasihan 55184 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Vegetarian Friendly",
+    "Meals": "Drinks",
+    "FEATURES": "Free Wifi"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/87/a0/6c/20181109-142339-largejpg",
+    "cafeName": "Sate Kambing Pak Arief",
+    "cafeAddress": "Jl. Palagan Tentara Pelajar Gondong, Donoharjo, Ngaglik 55581 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/f9/da/e8/kepiting-asam-manis.jpg",
+    "cafeName": "Kepiting Cak Gundul 1992",
+    "cafeAddress": "Gg. Watu Gede Jl. Damai, Ngaglik Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Seafood, Asian, Indonesian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/39/3a/a2/pilihan-menu-eastern.jpg",
+    "cafeName": "TAN Lunch & Bar",
+    "cafeAddress": "Rajawali Raya 26 Condong Catur, Sleman 55283 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "$10,000 - $250,000",
+    "CUISINES": "Chinese",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/e3/67/8c/photo0jpg",
+    "cafeName": "Moshi Moshi Milk Tea - CLOSED",
+    "cafeAddress": "Jalan Kaliurang Km. 5.4, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Japanese"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/04/80/0e/photo1jpg",
+    "cafeName": "Biztro Dining and Coffee",
+    "cafeAddress": "Jl. Bima 3/8 Grogol, Salatiga 50711 Indonesia",
+    "rating": "3.5 ",
+    "Meals": "Dinner",
+    "FEATURES": "Reservations, Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/5e/e1/4c/sudut-kafe-dipagi-hari.jpg",
+    "cafeName": "Antara Kata Coffee Talk",
+    "cafeAddress": "Jl. Durian no. 65-67, Semarang Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Indonesian",
+    "FEATURES": "Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/35/4a/44/20170120-102807-largejpg",
+    "cafeName": "Bond Cafe & Bakery Magelang",
+    "cafeAddress": "Jl. Pajang no. 18, Magelang 56122 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "$20,000 - $200,000",
+    "CUISINES": "Pizza, Cafe",
+    "Meals": "Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Reservations, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1d/99/81/da/bar.jpg",
+    "cafeName": "Bowery Restaurant",
+    "cafeAddress": "Jl. Ahmad Yani No.140, Semarang 50241 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "$45,000 - $650,000",
+    "CUISINES": "Steakhouse, European, Mediterranean",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Reservations, Seating, Wheelchair Accessible, Serves Alcohol, Table Service, Delivery, Parking Available, Valet Parking, Wine and Beer, Free Wifi, Accepts Credit Cards, Live Music, Family style"
+}]
