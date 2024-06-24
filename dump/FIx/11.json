@@ -1,0 +1,430 @@
+[{
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/3a/a5/c5/photo0jpg",
+    "cafeName": "Ling-Lung Kopi & Eatery",
+    "cafeAddress": "Jl. Perumnas no. 20A, Depok 55283 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Cafe, Indonesian, Asian",
+    "Meals": "Brunch",
+    "FEATURES": "Seating, Reservations, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/17/bc/13/ad/easy-garden-at-sunset.jpg",
+    "cafeName": "Easy Garden Restaurant & Cafe",
+    "cafeAddress": "Jl. Suryodiningratan 10 Mantrijeron, Yogyakarta 55141 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 35,000 - IDR 120,000",
+    "CUISINES": "Mexican, European, Indonesian, Pizza, International, Asian, Grill",
+    "Special_Diets": "Vegetarian Friendly",
+    "Meals": "Lunch, Dinner, Late Night, Drinks",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Free Wifi, Table Service, Parking Available, Street Parking, Free off-street parking, Highchairs Available, Serves Alcohol, Full Bar, Wine and Beer, Accepts Mastercard, Accepts Visa, Digital Payments, Accepts Credit Cards, Live Music"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/5b/91/28/various-types-of-special.jpg",
+    "cafeName": "Kedai Toraja Coffee",
+    "cafeAddress": "Jl. P. Mangkubumi No.20 Jaman Edan FoodCourt, Yogyakarta 55232 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 10,000 - IDR 50,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Dinner, Late Night, Drinks",
+    "FEATURES": "Delivery, Reservations, Outdoor Seating, Seating, Parking Available, Cash Only"
+}, {
+    "image": "",
+    "cafeName": "Gowo Coffee",
+    "cafeAddress": "Jl. R.W. Monginsidi No.5A Cokrodiningratan, Jetis, Yogyakarta 55223 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 15,000 - IDR 30,000",
+    "CUISINES": "Italian, Asian",
+    "Meals": "Drinks",
+    "FEATURES": "Delivery, Reservations, Outdoor Seating, Parking Available, Street Parking, Highchairs Available, Wheelchair Accessible, Digital Payments, Free Wifi, Accepts Credit Cards, Drive Thru, Family style, Non-smoking restaurants"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/75/e1/d2/img-20160229-112521-largejpg",
+    "cafeName": "Atap Cafe & Resto - CLOSED",
+    "cafeAddress": "Jl. Sosrowijayan No. 1/113, Yogyakarta 55271 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 48,000 - IDR 190,000",
+    "CUISINES": "Indonesian, Barbecue, Asian, Grill, Fusion",
+    "Meals": "Dinner",
+    "FEATURES": "Outdoor Seating, Seating, Serves Alcohol, Table Service"
+}, {
+    "image": "",
+    "cafeName": "Believe Coffee & Cold Press Juice",
+    "cafeAddress": "Jl. Mantrijeron No. MJ3/821, Yogyakarta 55141 Indonesia",
+    "rating": "",
+    "CUISINES": "Japanese, European, Asian, Indonesian, Central Asian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5b/ed/97/burger.jpg",
+    "cafeName": "Ayam Geprek Sa'i & Hajj Chicken",
+    "cafeAddress": "Jl. Wirosaban Barat Kav. 16 Sorosutan, Umbulharjo, Yogyakarta 55162 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 10,000 - IDR 20,000",
+    "CUISINES": "American, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "Bage X Kama",
+    "cafeAddress": "Jalan Palgading, Yogyakarta 55581 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/23/ee/35/1f/barley-barrel-beer-garden.jpg",
+    "cafeName": "Barley & Barrel Beer Garden",
+    "cafeAddress": "Jalan Urip Sumoharjo 37 Yogyakarta Lobby Level Of Artotel Suites Bianti Yogyakarta, Yogyakarta 55222 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 555,555,968 - IDR 2,147,483,647",
+    "CUISINES": "International, Wine Bar, Beer restaurants, Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Late Night, Drinks",
+    "FEATURES": "Reservations, Outdoor Seating, Private Dining, Seating, Parking Available, Highchairs Available, Serves Alcohol, Full Bar, Wine and Beer, Free Wifi, Accepts Credit Cards, Table Service, Live Music, Jazz Bar, Gift Cards Available"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/02/3b/c1/lucifer-bar-resto.jpg",
+    "cafeName": "Lucifer Bar & Resto",
+    "cafeAddress": "Jl. Sosrowijayan No. 71, Yogyakarta 55271 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Bar, Pub",
+    "Meals": "Drinks",
+    "FEATURES": "Seating, Serves Alcohol, Full Bar, Table Service, Live Music"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/1c/49/2c/0d/garden.jpg",
+    "cafeName": "Kopi Luwak - CLOSED",
+    "cafeAddress": "Jalan Malioboro No. 52-58 Malioboro Mall, Yogyakarta Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe",
+    "FEATURES": "Seating"
+}, {
+    "image": "",
+    "cafeName": "Angkringan Bu Bandiyah",
+    "cafeAddress": "Notoyudan Gt Ii No 978 Jalan Letjen Suprapto, Yogyakarta 55271 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Dear Eleanor Tea House",
+    "cafeAddress": "Jl. Cenderawasih No.3, Mrican, Caturtunggal, Yogyakarta 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "American",
+    "Meals": "Brunch, Drinks"
+}, {
+    "image": "",
+    "cafeName": "Jingga Café",
+    "cafeAddress": "Jalan Sawojajar 30, Yogyakarta 55131 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/cb/01/0d/sandwiches-al-formaggio.jpg",
+    "cafeName": "The Beans Lab - CLOSED",
+    "cafeAddress": "Jl. P. Mangkubumi No. 62-64, Yogyakarta 55232 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast",
+    "FEATURES": "Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/e4/15/ba/photo0jpg",
+    "cafeName": "Mangkok Mie & Resto - CLOSED",
+    "cafeAddress": "Jl. Wolter Monginsidi No. 5A, Yogyakarta 55241 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/7e/69/03/hot-chocolate-espresso.jpg",
+    "cafeName": "Kedai Kopi Mataram - CLOSED",
+    "cafeAddress": "Jalan Mataram 55B Malioboro Mall Terrace, Yogyakarta 55213 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 14,000 - IDR 40,000",
+    "CUISINES": "Italian, Cafe",
+    "Meals": "Breakfast, Brunch, Late Night",
+    "FEATURES": "Outdoor Seating, Seating, Television, Free Wifi, Jazz Bar"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0d/29/91/37/p-20160930-221419-01.jpg",
+    "cafeName": "Melting Pot Eatery & Coffee - CLOSED",
+    "cafeAddress": "Jln. Suryodiningratan 37-B, Yogyakarta 55141 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 5,000 - IDR 90,000"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/29/7c/9a/cb/favor-team.jpg",
+    "cafeName": "FAVOR Patisserie Pizzeria & Eatery",
+    "cafeAddress": "Jl. C. Simanjuntak No.36a Terban, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Yogyakarta 55223 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 5,000 - IDR 55,000",
+    "CUISINES": "Italian, French, Swiss, European, Asian, British, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Street Parking, Highchairs Available, Digital Payments, Cash Only, Free Wifi, Table Service, Family style"
+}, {
+    "image": "",
+    "cafeName": "Tahu Walik & Tela Tela Sayidan",
+    "cafeAddress": "Jl.P.Senopati No.46 Rt.012 Rw.004  Prawirodirjan Gondomanan, Yogyakarta 55121 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Dinner, Brunch"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/c8/fd/a2/photo0jpg",
+    "cafeName": "Mount Merapi Bistro & Bakery - CLOSED",
+    "cafeAddress": "Jl. Prawirotaman I 49, Yogyakarta 55283 Indonesia",
+    "rating": "3.5 ",
+    "PRICE_RANGE": "IDR 6,000 - IDR 90,000",
+    "CUISINES": "Italian, International, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/5e/37/52/dika-bakery.jpg",
+    "cafeName": "Dika Bakery & Cake Shop - CLOSED",
+    "cafeAddress": "Jalan Gajah Mada Blok R6 No. 21-23 Purwo Kinanti, Pakualaman, Yogyakarta 55112 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 5,000 - IDR 25,000",
+    "CUISINES": "European, Asian, Middle Eastern, Indonesian, Central Asian",
+    "Meals": "Brunch, Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/c6/a7/89/photo4jpg",
+    "cafeName": "Noe Coffee & Kitchen - CLOSED",
+    "cafeAddress": "Jl. Dr Wahidin Sudirohusodo No. 68, Yogyakarta 55224 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/b3/3d/3f/cute-place-in-jl-prawirotaman.jpg",
+    "cafeName": "As Coffee - CLOSED",
+    "cafeAddress": "Jl. Prawirotaman No.29, Yogyakarta 55153 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "",
+    "cafeName": "Mangku Coffee Shop - CLOSED",
+    "cafeAddress": "Jl. Mangkuyudan No. 09 Mantrijeron, Yogyakarta 55143 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "",
+    "cafeName": "Salami Kopi - CLOSED",
+    "cafeAddress": "Jl. Sosrowijayan GT I No. 62 Gg. 2, Yogyakarta Indonesia",
+    "rating": "3.0 ",
+    "CUISINES": "Cafe"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/28/5b/d6/b0/classic-rock-with-feelgood.jpg",
+    "cafeName": "Oase Cafe & Resto",
+    "cafeAddress": "Jl. Taman Siswa No.31, Yogyakarta 55151 Indonesia",
+    "rating": "",
+    "CUISINES": "Indonesian",
+    "Meals": "Dinner"
+}, {
+    "image": "",
+    "cafeName": "Rembug Kopi",
+    "cafeAddress": "Jl. Veteran No 148 Warungboto, Kec. Umbulharjo, Yogyakarta 55161 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/df/ff/3e/getlstd-property-photo.jpg",
+    "cafeName": "Lurd Coffee.co",
+    "cafeAddress": "Jl. Sosrowijayan No. 76 Sosromenduran, Gedong Tengen, Yogyakarta 55271 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 15,000 - IDR 50,000",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Delicia Bakery & Roti Sisir Jogja",
+    "cafeAddress": "Jl. KH Ahmad Dahlan No. 101, Yogyakarta 55262 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 4,000 - IDR 235,000"
+}, {
+    "image": "",
+    "cafeName": "Angkringan Kang Jo",
+    "cafeAddress": "Jl. Jenderal Sudirman 1 Toko MURAH, Yogyakarta 55233 Indonesia",
+    "rating": "",
+    "Meals": "Dinner, Late Night, Drinks"
+}, {
+    "image": "",
+    "cafeName": "Literica Resto & Cafe",
+    "cafeAddress": "Tirtodipuran St No.65 Pondok Kacang Prima Blok G1 No 5, Yogyakarta 55143 Indonesia",
+    "rating": "",
+    "CUISINES": "Southwestern, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Outdoor Seating, Seating, Parking Available, Accepts Mastercard, Digital Payments, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "",
+    "cafeName": "Shaokao Barbeque & Bar",
+    "cafeAddress": "Jl. Parangtritis No.95, Yogyakarta 55143 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 6,000 - IDR 50,000",
+    "CUISINES": "Bar, Barbecue, Pub"
+}, {
+    "image": "",
+    "cafeName": "Tan.Panama Coffee",
+    "cafeAddress": "Jl. Candra Kirana No.10 Terban, Gondokusuman, Yogyakarta 55223 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 14,000 - IDR 22,000",
+    "CUISINES": "Cafe",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Seating, Free Wifi"
+}, {
+    "image": "",
+    "cafeName": "Geprek Johnsu Jogja",
+    "cafeAddress": "Jl. Batikan No.94 Pandeyan, Umbulharjo, Yogyakarta 55161 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/21/f9/d4/10/one-best-artist-yogyakarta.jpg",
+    "cafeName": "Amri Yahya Art De Cafe",
+    "cafeAddress": "Jl. Prof. Dr. Ki Amri Yahya No 06, Yogyakarta 55253 Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe, Asian, Grill, Contemporary, Indonesian"
+}, {
+    "image": "",
+    "cafeName": "Nufia Snack & Nasi Box",
+    "cafeAddress": "Dipowinatan Mg1/48 Rt 05 Rw 01 Yogyakarta, Indonesia, Yogyakarta 55152 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "FEATURES": "Delivery"
+}, {
+    "image": "",
+    "cafeName": "Funny Burger & Kebab",
+    "cafeAddress": "Jagalan beji PA I/412, Yogyakarta Indonesia",
+    "rating": "",
+    "CUISINES": "American",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Delivery, Street Parking, Digital Payments, Cash Only"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/29/28/32/f3/de-celine-s-aesthetic.jpg",
+    "cafeName": "De Celine Restaurant & Patisserie",
+    "cafeAddress": "Jl.FM Noto No.17 Kotabaru Yogyakarta, Yogyakarta 55224 Indonesia",
+    "rating": "",
+    "CUISINES": "Pizza, European, Asian, Grill, Indonesian, Beer restaurants",
+    "Meals": "Lunch, Dinner, Brunch, Late Night, Drinks, Breakfast",
+    "FEATURES": "BYOB, Takeout, Reservations, Outdoor Seating, Private Dining, Parking Available, Street Parking, Wheelchair Accessible, Full Bar, Wine and Beer, Accepts Mastercard, Free Wifi, Accepts Credit Cards, Table Service, Live Music, Family style"
+}, {
+    "image": "",
+    "cafeName": "Ruang Jaka Coffee & Free Wifi",
+    "cafeAddress": "Jalan Polowijan No 17B, Yogyakarta 55133 Indonesia",
+    "rating": "",
+    "CUISINES": "American, Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Street Parking, Accepts American Express, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "",
+    "cafeName": "Bon Sva Coffee and Deli",
+    "cafeAddress": "Jl. Prawirotaman 2 No.71, Yogyakarta 55153 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 10,000 - IDR 30,000",
+    "CUISINES": "Italian, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/24/28/8a/63/ouch-this-holy-brownnnn.jpg",
+    "cafeName": "Harian Lokal Coffee N Co",
+    "cafeAddress": "Jalan Perintis Kemerdekaan No.83, Pandeyan Umbulharjo, Yogyakarta, Yogyakarta 55161 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/2a/01/8e/8c/caption.jpg",
+    "cafeName": "Omah Kalang Coffee And Space",
+    "cafeAddress": "Jl. Tegal Gendu No. 28 Prenggan Yogyakarta, Yogyakarta Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Italian, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/87/d0/69/d-warna-selfie-cafe.jpg",
+    "cafeName": "D' Warna Selfie & Cafe - CLOSED",
+    "cafeAddress": "Jl. Tegalturi 02, Yogyakarta Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/2a/9f/69/6d/caption.jpg",
+    "cafeName": "Lotek & Gado-gado Merdeka",
+    "cafeAddress": "Jl. Wijayakusuma no 8 Perumnas Condongcatur Depok, Yogyakarta 55283 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Healthy, Indonesian",
+    "Meals": "Breakfast, Lunch",
+    "FEATURES": "Seating, Parking Available, Free off-street parking, Digital Payments"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/28/d3/d4/fe/kopi-bongkar-adalah-minuman.jpg",
+    "cafeName": "kopi bongkar",
+    "cafeAddress": "Kalakijo RT 1 Guwosari Pajangan Bantul Selatan LP Pajangan Bantul, Yogyakarta 55751 Indonesia",
+    "rating": "5.0 ",
+    "Meals": "Drinks"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/2a/76/b3/d2/caption.jpg",
+    "cafeName": "Rita Roti Snack Box And Cookies",
+    "cafeAddress": "Jalan Gito Gati Perumahan  Griya Mulia Asri B2 gondanglegi sariharjo ngaglik sleman, Yogyakarta 55581 Indonesia",
+    "rating": "5.0 ",
+    "Meals": "Lunch"
+}, {
+    "image": "",
+    "cafeName": "Sate Babi & Sop Bakut 39 Cabang Pecenongan - CLOSED",
+    "cafeAddress": "Kompleks Ruko Babarsari No. 74, Yogyakarta 55281 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 15,000 - IDR 100,000",
+    "CUISINES": "Asian, Grill, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/16/e4/f2/fe/lotek-and-wedang-uwuh.jpg",
+    "cafeName": "Lotek & Gado-gado Bu Nur Cabang Colombo",
+    "cafeAddress": "Jl. Sorowajan Lama Jaranan, Banguntapan, Yogyakarta 55198 Indonesia",
+    "rating": "3.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1b/39/6a/7c/botime-it-s-a-good-time.jpg",
+    "cafeName": "Botime",
+    "cafeAddress": "Jl. Sorogenen No.13 Sorosutan, Umbulharjo, Yogyakarta 55162 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 14,000 - IDR 29,000",
+    "CUISINES": "Asian, Taiwanese"
+}, {
+    "image": "",
+    "cafeName": "Gule Satelit Gejayan - Nasi Gule Sapi & Nasi Koyor",
+    "cafeAddress": "Jl. Affandi No.09, Yogyakarta 55281 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Diner, Indonesian",
+    "Meals": "Dinner, Late Night",
+    "FEATURES": "Delivery, Street Parking, Digital Payments, Cash Only"
+}, {
+    "image": "",
+    "cafeName": "Panggung Coffee - CLOSED",
+    "cafeAddress": "Jl. Sorowajan Baru Selatan SMA UII, Yogyakarta Indonesia",
+    "rating": "",
+    "CUISINES": "Cafe"
+}, {
+    "image": "",
+    "cafeName": "Omah Kalang Coffee And Space",
+    "cafeAddress": "Tegal Gendu No. 28, Prenggan, Kota Gede, Yogyakart, Yogyakarta Indonesia",
+    "rating": "",
+    "CUISINES": "Italian, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/c6/d0/7a/make-your-day-extra-delicious.jpg",
+    "cafeName": "Cubic Kitchen & Bar - CLOSED",
+    "cafeAddress": "Jalan Demangan Baru Demangan Square Building, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 60,000 - IDR 575,000",
+    "CUISINES": "Mexican, European, Asian, Indonesian, Bar, Italian, Pub",
+    "Meals": "Dinner",
+    "FEATURES": "Reservations, Seating, Serves Alcohol, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/bc/11/30/screenshot-20181215-233725.jpg",
+    "cafeName": "Portable Bite and Brew",
+    "cafeAddress": "Jl. Demangan Baru Demangan Square Building 3-5, Sleman Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Asian, Indonesian, Singaporean, Steakhouse",
+    "FEATURES": "Reservations, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/ff/72/85/wedangan-pendhopo.jpg",
+    "cafeName": "Wedangan Pendhopo",
+    "cafeAddress": "Jalan Srigading 1 No 27, Solo Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Indonesian, Asian",
+    "Meals": "Dinner",
+    "FEATURES": "Takeout, Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0a/62/f7/ab/poffertjes-yummy.jpg",
+    "cafeName": "Toko Oen",
+    "cafeAddress": "Jln. Pemuda 52, Semarang 50138 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Dutch, European, Asian, Indonesian, International",
+    "Special_Diets": "Vegetarian Friendly, Vegan Options, Halal",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks",
+    "FEATURES": "Takeout, Reservations, Seating, Parking Available, Highchairs Available, Accepts Credit Cards, Table Service, Live Music"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/5d/99/5a/fruit-tea-mix.jpg",
+    "cafeName": "Godhong Pring",
+    "cafeAddress": "Jln. Merbabu, Salatiga 50724 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/ac/3b/64/20180104-090211-largejpg",
+    "cafeName": "Starbucks",
+    "cafeAddress": "Jl. Pemuda no. 118 Paragon City Mall, Semarang 50132 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Cafe",
+    "Meals": "Breakfast, Brunch",
+    "FEATURES": "Takeout, Seating, Wheelchair Accessible"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/0d/f1/63/20191117-183951-largejpg",
+    "cafeName": "My Kopi O!",
+    "cafeAddress": "Jl Sisingamaraja 75, Semarang Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Takeout, Seating, Parking Available, Table Service"
+}]

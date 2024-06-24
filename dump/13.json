@@ -1,0 +1,212 @@
+[{
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/1b/42/c6/sucesso-coffee-resto.jpg",
+    "cafeName": "Sucesso Coffee & Resto",
+    "cafeAddress": "Jl. Magelang Km .1 No. 61 Uniq Hotel, Yogyakarta 55242 Indonesia",
+    "rating": "5.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/8f/be/02/sunday-morning-our-banana.jpg",
+    "cafeName": "Journey Coffee & Records",
+    "cafeAddress": "Jl Colombo no.37, Yogyakarta 55281 Indonesia",
+    "rating": "",
+    "PRICE_RANGE": "IDR 10,000 - IDR 30,000",
+    "CUISINES": "Asian, Indonesian, American",
+    "Meals": "Lunch, Dinner, Late Night, Drinks",
+    "FEATURES": "Delivery, Takeout, Reservations, Outdoor Seating, Seating, Parking Available, Street Parking, Highchairs Available, Digital Payments, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "",
+    "cafeName": "Lingua Coffee And Eatery",
+    "cafeAddress": "Magelang St No.71, Kricak, Yogyakarta 55242 Indonesia",
+    "rating": ""
+}, {
+    "image": "",
+    "cafeName": "Maji coffee and eatery",
+    "cafeAddress": "Jalan Sorowajan baru Yogyakarta Jalam Sorowajan Baru ( Utara JEC ) Yogyakarta, Yogyakarta 55198 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Late Night, Drinks",
+    "FEATURES": "Delivery, Reservations, Outdoor Seating, Parking Available, Television, Wheelchair Accessible, Accepts Mastercard, Accepts Visa, Digital Payments, Cash Only, Free Wifi, Accepts Credit Cards"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/fc/a0/d9/chicken-katsu.jpg",
+    "cafeName": "Unique Coffee & Gallery - CLOSED",
+    "cafeAddress": "Jl. Parangtritis No.63, Yogyakarta 55153 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/df/ba/e8/getlstd-property-photo.jpg",
+    "cafeName": "Upnormal Coffee Roasters Kaliurang",
+    "cafeAddress": "Jl. Kaliurang KM 5.6, Gang Pandega Karya No 209, Depok 55281 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Cafe, Asian, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/29/7e/83/b8/menunya-enak2-harga-ekonomis.jpg",
+    "cafeName": "SalSari Resto & Coffee",
+    "cafeAddress": "Jl. Nasional III No.4, Logandeng, Kec. Playen, Yogyakarta 55861 Indonesia",
+    "rating": "",
+    "CUISINES": "European, Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Drinks",
+    "FEATURES": "Takeout, Reservations, Buffet, Private Dining, Seating, Parking Available, Accepts Mastercard, Accepts Visa, Digital Payments, Free Wifi, Accepts Credit Cards, Table Service, Live Music, Playgrounds, Family style"
+}, {
+    "image": "",
+    "cafeName": "DE.RIMBUN Coffee & Eatery",
+    "cafeAddress": "Jl. Sidomulyo No.4, Manukan, Condong Catur, DIY, Yogyakarta 55283 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch, Drinks",
+    "FEATURES": "Reservations, Outdoor Seating, Seating, Parking Available, Digital Payments, Cash Only, Free Wifi, Drive Thru"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/27/9c/ba/a7/manual-brew-on-efreeday.jpg",
+    "cafeName": "Efreeday Coffee & Eatery",
+    "cafeAddress": "Jl. Pakem 1, Pakembinangun, Yogyakarta 55582 Indonesia",
+    "rating": "",
+    "CUISINES": "Asian, Diner, Wine Bar, Indonesian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/22/f6/23/kopi.jpg",
+    "cafeName": "Kedai Filosofi Kopi, Yogya",
+    "cafeAddress": "Jl. Pandhawa No.001/17 Tegal Rejo, Sariharjo, Ngaglik 55581 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 793,651,008 - IDR 1,587,302,016",
+    "CUISINES": "Indonesian",
+    "FEATURES": "Takeout, Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/15/1f/02/03/banyumili-restaurant.jpg",
+    "cafeName": "Banyumili Restaurant & Swimming Pool",
+    "cafeAddress": "Jalan Godean KM. 4,5 (Perumahan Griya Mahkota, Kwarasan), Sleman, DI Yogyakarta, Indonesia, Sleman Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Seafood, Indonesian, Asian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Breakfast, Dinner",
+    "FEATURES": "Takeout, Reservations, Outdoor Seating, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/14/ff/89/f6/20181007-231641-largejpg",
+    "cafeName": "Gudeg Bromo",
+    "cafeAddress": "Jln. Gejayan, Sleman 55281 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Asian, Indonesian",
+    "Special_Diets": "Halal",
+    "Meals": "Dinner",
+    "FEATURES": "Takeout"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1a/9e/1d/a3/beaneka-coffee.jpg",
+    "cafeName": "Beaneka Coffee",
+    "cafeAddress": "Jl. Jomegatan No.23a Tegal Senggotan, Tirtonirmolo, Kasihan 55184 Indonesia",
+    "rating": "5.0 ",
+    "PRICE_RANGE": "IDR 5,000 - IDR 17,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner, Drinks",
+    "FEATURES": "Reservations, Outdoor Seating, Seating, Parking Available, Street Parking, Free off-street parking, Digital Payments, Free Wifi"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/86/1e/0b/photo0jpg",
+    "cafeName": "Tickles - CLOSED",
+    "cafeAddress": "Jalan Kenari Nomor 4 Demangan Baru Demangan Baru, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 80,000 - IDR 150,000",
+    "CUISINES": "Italian, British, Cafe, European",
+    "Meals": "Brunch, Lunch, Dinner",
+    "FEATURES": "Delivery, Takeout, Reservations, Outdoor Seating, Buffet, Seating, Parking Available, Street Parking, Accepts Mastercard, Accepts Visa, Cash Only, Free Wifi, Accepts Credit Cards, Live Music"
+}, {
+    "image": "",
+    "cafeName": "Dwi Budiarti",
+    "cafeAddress": "Jl.anyelir No.3-b,gejayan, Sleman Indonesia",
+    "rating": ""
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/d4/6b/fc/ta-img-20160904-215612.jpg",
+    "cafeName": "Kurabu Angkringan Kitchen And Coffee - CLOSED",
+    "cafeAddress": "Jl. Affandi Santren, Caturtunggal 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Asian"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/de/ff/98/nongkrong-di-homi-coffee.jpg",
+    "cafeName": "Homi Coffee & Space",
+    "cafeAddress": "Jl. Kenari no 7, Depok 55284 Indonesia",
+    "rating": "4.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/3f/35/de/the-javaneses-traditional.jpg",
+    "cafeName": "Projomino Resto & Outbound",
+    "cafeAddress": "Jl. Wonosari Km. 6, Bantul 55198 Indonesia",
+    "rating": "4.5 ",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "",
+    "cafeName": "The Koffie Shop",
+    "cafeAddress": "Gowok, Caturtunggal, Depok 55281 Indonesia",
+    "rating": "4.0 "
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/21/e0/9f/spot-asik-di-uppers-coffee.jpg",
+    "cafeName": "Uppers Coffee Brewer - CLOSED",
+    "cafeAddress": "Jl. Monjali No. 78, Sinduadi 55284 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "Cafe",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-w/1a/3a/ac/3b/babi-guling-bima-kroda.jpg",
+    "cafeName": "Babi Guling Bima Kroda",
+    "cafeAddress": "Jl. Sorowajan RT 12/RW 11 Banguntapan, Bantul 55198 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 17,000 - IDR 25,000",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Reservations, Wheelchair Accessible, Takeout, Parking Available, Street Parking, Validated Parking, Cash Only, Seating, Table Service"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/1c/6c/74/c2/20201213-175529-largejpg",
+    "cafeName": "Pacific Restaurant and Convention Hall",
+    "cafeAddress": "Jalan Magelang Km 4.5 Depan TVRI, Sinduadi 55284 Indonesia",
+    "rating": "3.5 ",
+    "CUISINES": "Asian, Indonesian",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/0b/ae/be/11/de-vitello-steak-house.jpg",
+    "cafeName": "De Vitello - Steak House & Pasta - CLOSED",
+    "cafeAddress": "Jl. Laksda Adisucipto No. 23, Depok 55281 Indonesia",
+    "rating": "4.5 ",
+    "PRICE_RANGE": "IDR 15,000 - IDR 150,000",
+    "CUISINES": "Steakhouse, European, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/29/a3/e2/4d/why-senja-for-us-twilight.jpg",
+    "cafeName": "SENJA coffee & eatery",
+    "cafeAddress": "Jalan Kaliurang KM 4,5 no.36, Kocoran, Caturtunggal Lantai UG, Sleman 55281 Indonesia",
+    "rating": "5.0 ",
+    "CUISINES": "Italian, European, Asian, Indonesian",
+    "Meals": "Breakfast, Lunch, Dinner, Brunch",
+    "FEATURES": "Delivery, Reservations, Accepts Mastercard, Accepts Visa, Free Wifi, Family style"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/11/4d/74/b5/getlstd-property-photo.jpg",
+    "cafeName": "Kenes Bakery & Resto",
+    "cafeAddress": "Jl. Affandi No.15, Caturtunggal 55281 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Deli",
+    "FEATURES": "Seating"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/09/7a/4c/a5/ayam-geprek-bu-rum.jpg",
+    "cafeName": "Ayam Geprek Bu Rum 1",
+    "cafeAddress": "Jl. Wulung, Caturtunggal 55281 Indonesia",
+    "rating": "4.5 ",
+    "CUISINES": "Indonesian, Asian",
+    "Special_Diets": "Halal",
+    "Meals": "Lunch, Dinner",
+    "FEATURES": "Takeout"
+}, {
+    "image": "",
+    "cafeName": "Kurtoffie",
+    "cafeAddress": "Jl. Ampel No.28 Papringan, Caturtunggal, Depok 55282 Indonesia",
+    "rating": ""
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/12/4e/19/a2/photo0jpg",
+    "cafeName": "Kopilot Coffee and Bar",
+    "cafeAddress": "Jl. STM Mrican no. 4A, Sleman 55281 Indonesia",
+    "rating": "4.0 ",
+    "CUISINES": "European, Central European, South American"
+}, {
+    "image": "",
+    "cafeName": "Rockage Coffee And Music - CLOSED",
+    "cafeAddress": "Monjali St No.147 Kutu Dukuh, Sinduadi 55284 Indonesia",
+    "rating": "4.0 ",
+    "Meals": "Lunch, Dinner"
+}, {
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/10/66/c3/94/photo0jpg",
+    "cafeName": "Umar Restaurant and Shisha Cafe",
+    "cafeAddress": "Jl.Bougenville CTX no. 1, Depok 55284 Indonesia",
+    "rating": "4.0 ",
+    "PRICE_RANGE": "IDR 10,000 - IDR 28,000",
+    "CUISINES": "Indian, Cafe, Middle Eastern, Pakistani, Arabic"
+}]
